@@ -1,6 +1,6 @@
 {
   "name": "language-mako-tmpl",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Mako template plugin for Atom with .tmpl",
   "repository": "https://github.com/georgeke/language-mako",
   "license": "MIT",
